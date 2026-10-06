@@ -1,0 +1,13 @@
+Purpose and Uses
+
+Register - create your name, email, password, confirm password.
+Login - input the registered email, password.
+Homepage - Present a variety cards of each category, it also randomize.
+Settings (DropDown)
+  - Account
+      * Manage your account (change email, change pfp, change user, and view History)
+  - Settings
+      * You can change the theme of the pages by your choice (Given)
+  - Subscription
+      * This page is not working, only effects and ux.
+
